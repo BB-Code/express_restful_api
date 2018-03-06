@@ -32,6 +32,13 @@ superivsor server.js
 
 - 安装Postman,到网上下载Postman
 
-## 测试API
+### 提供的API方法
+- Get        http://localhost:9090/api/fruits
+- Post       http://localhost:9090/api/fruits
+- Put        http://localhost:9090/api/fruits/:fruit_id
+- delete     http://localhost:9090/api/fruits/:fruit_id
+
+### 测试结果
 
 ![测试API](https://github.com/BB-Code/express_restful_api/blob/master/fruit.png)
+
