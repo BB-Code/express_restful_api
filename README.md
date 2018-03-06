@@ -2,7 +2,7 @@
 使用express 做RESTful API,用于客户端和服务器Json数据交互
 
 
-![express-green](https://img.shields.io/badge/express-4.x-green.svg) 
+![express-green](https://img.shields.io/badge/express-4.x-green.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/78ade83a09cb4808baa1dce23bbc013b)](https://www.codacy.com/app/15919854639/express_restful_api?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BB-Code/express_restful_api&amp;utm_campaign=Badge_Grade)
 
 ## 获取
 
