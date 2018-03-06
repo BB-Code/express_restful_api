@@ -20,9 +20,7 @@ cd express_restful_api
 
 `npm install`
 
-- 修改server.js里面的MongoDB链接数据信息
-
-启动MOngoDB服务
+- 修改server.js里面的MongoDB链接数据信息,启动MongoDB服务
 
 - 服务跑在 localhost:9090
 
@@ -32,10 +30,8 @@ node server.js
 superivsor server.js
 ```
 
-- 安装Postman
-
-到网上下载Postman
+- 安装Postman,到网上下载Postman
 
 ## 测试API
 
-![]()
+![测试API](https://github.com/BB-Code/express_restful_api/blob/master/fruit.png)
